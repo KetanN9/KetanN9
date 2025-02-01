@@ -1,5 +1,5 @@
-<h1>Hi, I'm Ketan!
-
+<h1>Hi, I'm Ketan! </h1>
+<b> I am a Mechanical Engineer from UC Berkeley specialising in Robotics and Automation Systems </b>
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Exoskeleton Supporting a Person's Shoulder and Trunk</b>
